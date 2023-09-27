@@ -1,0 +1,3 @@
+/Users/hpxxph/Documents/matrix_task/cmake-build-debug/CMakeFiles/matrix_task.dir
+/Users/hpxxph/Documents/matrix_task/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/hpxxph/Documents/matrix_task/cmake-build-debug/CMakeFiles/rebuild_cache.dir
